@@ -19,6 +19,12 @@ h1 {
     padding: 1rem;
 }
 
+img {
+    max-width: 200px;
+    display: block;
+    margin: auto;
+}
+
 textarea {
     width: 50%;
     height: 20vh;
