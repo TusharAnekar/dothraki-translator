@@ -34,6 +34,7 @@ textarea {
     margin-top: 1rem;
     font-size: 1.5rem;
     padding: 1rem;
+    border: solid black 1px;
 }
 
 button {
@@ -45,6 +46,17 @@ button {
     font-size: large;
     font-family: 'Righteous', cursive;
     margin: 1rem;
+}
+
+#output {
+    width: 50%;
+    margin: auto;
+    height: 20vh;
+    font-size: 1.5rem;
+    padding: 1rem;
+    border: solid black 1px;
+    margin-bottom: 1rem;
+    color: var(--font-color);
 }
 
 footer {
