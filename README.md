@@ -1,2 +1,2 @@
 # wakanda-translator
- This Wankandan translator translates the alphabet to Wakandan looking alphabets.
+ This Dothraki translator translates the alphabet to dothraki language.

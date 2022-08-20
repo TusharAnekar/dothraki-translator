@@ -11,7 +11,7 @@ function getTranslationURL (text) {
 }
 
 function errorHandler (error) {
-    console.log ("Error occuered ",error);
+    output.innerText = "Error occuered " + error;
 }
 
 function clickHandler () {
